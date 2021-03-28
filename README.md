@@ -1,4 +1,3 @@
 # ImageCaptioningUsingCOCODataset
-ImageCaptioningUsingCOCODataset
-
-<img src = "iamges/encoder-decoder.png">
+Basic Architecture Diagram
+<img src = "images/encoder-decoder.png">
